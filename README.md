@@ -28,3 +28,29 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+
+
+---
+
+
+
+## About
+
+[I am Eshraq Allawama, My role is AI Engineering 
+this repo for learning Git commend in the first time and I am enjoying in this traying ]
+
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-EshraqAllawama..git
+cd prework-day-1-and-2-EshraqAllawama
+
+## 4. Commit each change separately
+
+Stage and commit `docs/git-setup.md` first:
+
+```bash
+git add docs/git-setup.md
+git commit -m "Add docs/git-setup.md with configured user identity"
