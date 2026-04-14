@@ -41,7 +41,13 @@ Configure the pull request:
 this repo for learning Git commend in the first time and I am enjoying in this traying ]
 
 
-### 4. Commit each change separately
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-EshraqAllawama..git
+cd prework-day-1-and-2-EshraqAllawama
+
+## 4. Commit each change separately
 
 Stage and commit `docs/git-setup.md` first:
 
