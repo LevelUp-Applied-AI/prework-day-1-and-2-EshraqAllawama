@@ -41,7 +41,6 @@ Configure the pull request:
 this repo for learning Git commend in the first time and I am enjoying in this traying ]
 
 
-
 ### 4. Commit each change separately
 
 Stage and commit `docs/git-setup.md` first:
